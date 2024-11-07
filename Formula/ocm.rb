@@ -1,1 +1,1 @@
-Formula/ocm@0.17.0.rb
+ocm@0.17.0.rb
